@@ -30,3 +30,16 @@ Since this project is a UI clone, it does not include any backend logic or inter
 Credits
 
 This project is developed by [Pranav Ghaytadkar]. It is created for educational purposes only and is not affiliated with or endorsed by Amazon.
+
+
+Screen-Shots
+
+![Screenshot (93)](https://github.com/Pranav6715/Amazon-Clone-Ui-/assets/112382076/993ff2b2-921e-4b09-9a69-72af8e53d888)
+
+
+
+
+
+![Screenshot (94)](https://github.com/Pranav6715/Amazon-Clone-Ui-/assets/112382076/ad8e6d27-388f-4474-8462-9f1e60578a5c)
+
+![Screenshot (95)](https://github.com/Pranav6715/Amazon-Clone-Ui-/assets/112382076/888e97aa-2fb9-4112-bba3-c1fbb954d0ea)
